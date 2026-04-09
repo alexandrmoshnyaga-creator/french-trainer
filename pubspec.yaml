@@ -1,5 +1,5 @@
 name: french_trainer
-description: A new Flutter project
+description: French learning app
 
 environment:
   sdk: ">=2.17.0 <4.0.0"
@@ -7,9 +7,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^1.1.0
-  flutter_tts: ^3.8.5
-  shared_preferences: ^2.2.2
+  http: ^0.13.6
+  flutter_tts: ^3.6.3
 
 flutter:
   uses-material-design: true
